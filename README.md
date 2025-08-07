@@ -1,4 +1,4 @@
-# 🤖 Automated X (Twitter) Poster with Gemini and MCP - AI agent
+# 🤖 Automated X (Twitter) Poster with Gemini and MCP
 
 This project is a command-line application that uses Google's Gemini AI to automatically generate and post content to X (formerly Twitter). It demonstrates the power of large language models in understanding natural language commands to perform specific actions, like posting a tweet with text and an optional image.
 
